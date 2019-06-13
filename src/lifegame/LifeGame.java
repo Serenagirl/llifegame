@@ -21,7 +21,7 @@ public class LifeGame extends JFrame{
     LifeGame(){  
     	
         this.setSize(700,580);  
-        this.setTitle("生命游戏-软件工程结对实验");  
+        this.setTitle("lifegame");  
         this.add(new Show());      
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
         this.setLocationRelativeTo(null);  

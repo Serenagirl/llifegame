@@ -1,2 +1,2 @@
 # LifeGame
-第一次修改，omg
+ I love git,omg
